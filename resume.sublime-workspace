@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n	<head>\n		<meta content=\"text/html;charset=utf-8\" http-equiv=\"Content-Type\">\n		<meta content=\"utf-8\" http-equiv=\"encoding\">\n		<title>My Prime Academy Application Submission</title>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"resume.css\">\n	</head>\n\n	<body>\n		<div id=\"container\">\n			\n			<div id=\"content-contact\">\n				Thomas Geisinger\n			</div>\n\n			<div id=\"content-info\">\n				<p>\n					Phone: 612-704-5801\n					<br>\n					Address: 3600 13th Ave S., Minneapolis, MN 55407\n				</p>\n			</div>\n\n			<div id=\"content-body\">\n				<div id=\"content-summary\">\n					<div id=\"content-summarycontent\">\n						Ultimate optimist, self motivated, passionate person. Ready to work hard for a positive career change.\n					</div>\n				</div>\n				<div id=\"content-education\">\n					<div id=\"content-educationheader\">\n						Education\n					</div>\n					<div id=\"content-highschool\">\n						<h3 style=\"border: none;\" class=\"inline\">Roosevelt High School, Minneapolis, MN</h3>\n						<div class=\"date inline\">Class Of 2004 </div>\n					</div>\n				</div>\n				<div id=\"content-professional\"> \n					<div id=\"content-professionalheader\">\n						Professional Experience\n					</div>\n					<div id=\"content-Element\">\n						<h3>Element Materials Technology</h3>\n						<div class=\"block-date\">\n								<div class=\"date\">May 2014 - Current</div>\n								<h4>Product evaluation technician</h4>\n								\n						</div>		\n						<div class\"block-content\">\n								<ul>	\n									<li>Materials testing and analysis, and product testing. </li>\n									<li>Building custom test setups for various product testing that adheres to clients needs.</li>\n									<li>Using MTS machines to perform compression, torque and tensile testing.</li>\n									<li>Taking the test data and compiling reports for clients. </li>\n									<li>Co-chairman of employment engagement committee to arrange events and think of ways to boost employee moral.</li>\n								</ul>	\n						</div>\n					</div>\n\n					<div id=\"content-Kemps\">\n						<h3>Kemps</h3>\n						<div class=\"block-date\">\n								<div class=\"date\">November 2011 - May 2014</div>\n								<h4>Filler operator</h4>\n						</div>		\n						<div class\"block-content\">\n								<ul>	\n									<li>Operated filler machine.</li>\n									<li>Responsible for start up and break down which includes cleaning and maintenance of machine.</li>\n									<li>Full fill orders to be shipped.</li>\n								</ul>	\n						</div>\n					</div>\n\n					<div id=\"content-Home Depot\">\n						<h3>Home Depot</h3>\n						<div class=\"block-date\">\n								<div class=\"date\">November 2005 - 2010</div>\n								<h4>Plumbing Department</h4>\n						</div>		\n						<div class\"block-content\">\n								<ul>	\n									<li>Provide customer service.</li>\n									<li>Restock shelfs\n								</ul>\n						</div>\n					</div>\n				</div>\n			</div>\n		</div>\n	</body>\n</html>",
+			"file": "resume.html",
+			"file_size": 2966,
+			"file_write_time": 130967814529334849,
+			"settings":
+			{
+				"buffer_size": 2842,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume.css",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Thomas/Desktop/Resume/tiger.jpg.jpg",
+		"/C/Users/Thomas/Desktop/Resume/resume"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resume.html",
+					"settings":
+					{
+						"buffer_size": 2842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resume.css",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1028,
+								1028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
